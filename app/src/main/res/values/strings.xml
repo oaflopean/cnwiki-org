@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caesar Naples Wiki.Org</string>
+    <string name="email">Email us</string>
+    <string name="share">Share</string>
+    <string name="welcome1">Tap our buttons and website links!</string>
+    <string name="book">Free book</string>
+    <string name="call">Call</string>
+    <string name="cnwiki">Works gathered by Caesar Naples Wiki Staff</string>
+    <string name="missing">Caesar Naples</string>
+    <string name="blinking">Status: Missing</string>
+</resources>
